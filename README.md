@@ -23,7 +23,8 @@ This project is ideal for learning Express.js fundamentals, REST API design, ser
 - Express.js  
 - body-parser  
 - axios  
-- EJS templating engine  
+- EJS templating engine
+- css
 
 ---
 
